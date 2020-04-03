@@ -1,16 +1,43 @@
+commit 928c6078465957a0ca602445c451a596aa4b2e0d (HEAD -> master, origin/master, origin/HEAD)
+Author: beraaht <bertam@ucdavis.edu>
+Date:   Fri Apr 3 19:56:37 2020 +0000
+
+    added Moo's changes to output
+
+commit a316283c460e2348501b62839673f1f7d5aab88e
+Author: beraaht <bertam@ucdavis.edu>
+Date:   Fri Apr 3 19:52:50 2020 +0000
+
+    modified plans.txt
+
+commit 642edb57b89dd680be441c60d85a725a14f6da8e
+Merge: 970e616 c47ad71
+Author: knonkum <50498539+knonkum@users.noreply.github.com>
+Date:   Fri Apr 3 00:48:11 2020 -0700
+
+    Merge pull request #2 from knonkum/master
+
+    Add Moo's Plans.
+
+commit c47ad710d83da9b718123542c439f8beac41b1a1
+Merge: 20c6aa9 970e616
+Author: knonkum <50498539+knonkum@users.noreply.github.com>
+Date:   Fri Apr 3 00:47:59 2020 -0700
+
+    Merge branch 'master' into master
+
+commit 970e616fe62e750a9db88abf587ec544a73f93ed
+Author: beraaht <bertam@ucdavis.edu>
+Date:   Fri Apr 3 00:11:23 2020 +0000
+
+    commit 869f5fe3c83b3848a6ee04c2e73b046fb62e32f8
+    Merge: 98e186e e447d29
+    Author: beraaht <58760776+beraaht@users.noreply.github.com>
+    Date:   Fri Apr 3 00:02:30 2020 +0000
+
+        Merge pull request #1 from zunwang0513/add-zunwang0513
 
 
-remote: Enumerating objects: 14, done.
-remote: Counting objects: 100% (14/14), done.
-remote: Compressing objects: 100% (7/7), done.
-remote: Total 10 (delta 3), reused 9 (delta 3), pack-reused 0
-Unpacking objects: 100% (10/10), done.
-From https://github.com/beraaht/Intro-to-git
-   970e616..642edb5  master     -> origin/master
-Updating 970e616..642edb5
-Fast-forward
- plans.txt | 10 ++++++----
- 1 file changed, 6 insertions(+), 4 deletions(-)
 
 commit 869f5fe3c83b3848a6ee04c2e73b046fb62e32f8
 Merge: 98e186e e447d29
