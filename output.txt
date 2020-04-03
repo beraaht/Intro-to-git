@@ -1,3 +1,17 @@
+
+
+remote: Enumerating objects: 14, done.
+remote: Counting objects: 100% (14/14), done.
+remote: Compressing objects: 100% (7/7), done.
+remote: Total 10 (delta 3), reused 9 (delta 3), pack-reused 0
+Unpacking objects: 100% (10/10), done.
+From https://github.com/beraaht/Intro-to-git
+   970e616..642edb5  master     -> origin/master
+Updating 970e616..642edb5
+Fast-forward
+ plans.txt | 10 ++++++----
+ 1 file changed, 6 insertions(+), 4 deletions(-)
+
 commit 869f5fe3c83b3848a6ee04c2e73b046fb62e32f8
 Merge: 98e186e e447d29
 Author: beraaht <58760776+beraaht@users.noreply.github.com>
