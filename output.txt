@@ -1,3 +1,9 @@
+commit 8fe21ddc41c52c118c2b2ec19016bfd6e28c337f (HEAD -> master, origin/master, origin/HEAD)
+Author: beraaht <bertam@ucdavis.edu>
+Date:   Fri Apr 3 20:57:04 2020 +0000
+
+    modified from git log to output
+
 commit 928c6078465957a0ca602445c451a596aa4b2e0d (HEAD -> master, origin/master, origin/HEAD)
 Author: beraaht <bertam@ucdavis.edu>
 Date:   Fri Apr 3 19:56:37 2020 +0000
