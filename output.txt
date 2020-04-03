@@ -1,0 +1,32 @@
+commit 869f5fe3c83b3848a6ee04c2e73b046fb62e32f8
+Merge: 98e186e e447d29
+Author: beraaht <58760776+beraaht@users.noreply.github.com>
+Date:   Fri Apr 3 00:02:30 2020 +0000
+
+    Merge pull request #1 from zunwang0513/add-zunwang0513
+    
+    Zun's plans added
+
+commit e447d299b4c5cbd7ce33f20478f2dde25b538ba5
+Author: Zun Wang <1767852818@qq.com>
+Date:   Thu Apr 2 23:40:51 2020 +0000
+
+    plans added
+
+commit 98e186e688ac14ce9eb1709321e78260844adcd9
+Author: beraaht <bertam@ucdavis.edu>
+Date:   Thu Apr 2 22:21:43 2020 +0000
+
+    changes made to plans.txt
+
+commit a97ead05bfa6c2fd823729961348409227f70824
+Author: beraaht <bertam@ucdavis.edu>
+Date:   Thu Apr 2 22:18:13 2020 +0000
+
+    Added plans.txt
+
+commit e2dd20bc7b80e7056c59e021491f5553b49492fc
+Author: beraaht <58760776+beraaht@users.noreply.github.com>
+Date:   Thu Apr 2 14:54:50 2020 -0700
+
+    Initial commit
